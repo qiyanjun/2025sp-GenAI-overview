@@ -68,7 +68,7 @@ Students in the seminar are expected to:
 + Final grades will be based on.
   - 50% for the quality of your seminar presentations;
   - 20% for the quality of your blogposts or demo (??) ;
-  - 30% for the quality of your projects; (Graduate)
+  - 30% for the quality of your projects; (project difference: Graduate vs. Under)
 
 
 
