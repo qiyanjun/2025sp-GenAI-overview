@@ -17,6 +17,9 @@ desc: "Information for 2025 Spring UVa CS -GenAI-Overview"
 
 + The course will take the form of a seminar instead of lectures by the instructor. 
 
++ MoWe 3:30pm - 4:45pm  
++ Olsson Hall 009
+
 + Each class session starts by a presentation (lecture) by a student group, and ended with classroom discussion on the collected and new questions. After each class session, another team of students will write a blogpost on the topic. All the students are required to read every session's required readings before it is discussed in a class, and sent their questions through Collab in advance.
 
 
@@ -39,7 +42,7 @@ Students in the seminar are expected to:
 
 ### Course Websites
 
-+ Course schedule and materials  @ [https://qiyanjun.github.io/2025sp-GenAI-Risk-Benefits/](https://qiyanjun.github.io/2025sp-GenAI-Risk-Benefits/)
++ Course schedule and materials  @ [xxx](xx)
 
 + Discussion and assignment submissions via [Cavas site:]() 
 
@@ -63,7 +66,7 @@ Students in the seminar are expected to:
 
 + Final grades will be based on.
   - 50% for the quality of your seminar presentations;
-  - 20% for the quality of your blogposts ;
+  - 20% for the quality of your blogposts or demo (??) ;
   - 30% for the quality of your projects; (Graduate)
 
 
