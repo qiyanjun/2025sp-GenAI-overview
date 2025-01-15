@@ -66,9 +66,10 @@ Students in the seminar are expected to:
 + Sit-in: No. This course is for registered students only.
 
 + Final grades will be based on.
-  - 50% for the quality of your seminar presentations;
-  - 20% for the quality of your blogposts or demo (??) ;
-  - 30% for the quality of your projects; (project difference: Graduate vs. Under)
+  - 40% for the quaity of your seminar presentations;
+  - 24% for the quality of your projects; (project difference: Graduate vs. Under)  
+  - 24% for the quality of your demo sessions ( or blogposts again??) ;
+  - 12% for class attendance
 
 
 
