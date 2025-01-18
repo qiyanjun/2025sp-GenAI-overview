@@ -38,23 +38,7 @@ categories:
 + A good code walk through on transformer at [URL](https://nlp.seas.harvard.edu/annotated-transformer/)
 
 
-## Extra Readings: 
-
-
-#### Emergent Abilities of Large Language Models 
-  + [ URL](https://arxiv.org/abs/2206.07682) 
-  + "an ability to be emergent if it is not present in smaller models but is present in larger models. Thus, emergent abilities cannot be predicted simply by extrapolating the performance of smaller models."|
-
-#### Language Models are Few-Shot Learners 
-  + [ URL](https://arxiv.org/abs/2005.14165) 
-  + "GPT-3, 175B autoregerssive LLM;  show that scaling up language models greatly improves task-agnostic, few-shot performance, sometimes even reaching competitiveness with prior state-of-the-art fine-tuning approaches."|
-
-
-
-#### Generative AI: Perspectives from Stanford HAI
- + https://hai.stanford.edu/generative-ai-perspectives-stanford-hai 
-
-
+∂
 
 <!--excerpt.start-->
 
