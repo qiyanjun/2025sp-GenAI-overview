@@ -53,7 +53,7 @@ Students in the seminar are expected to:
 +  Corrections or comments to [yanjun@virginia.edu](mailto:xxx)
 
 + ##### Instructors: 
-  - Prof. Yanjun Qi / [yanjun@virginia.edu](mailto:24sp-cs6501-010-teachers@collab.its.virginia.edu);
+  - Prof. Yanjun Qi / [yanjun@virginia.edu](mailto:yanjun@virginia.edu);
   - TA: [xx](mailto:) 
   - Instructor office hour: Tue: 7:30pm via Zoom 
   - TA office hours: TBD: 7:30pm via Zoom
@@ -77,7 +77,7 @@ Students in the seminar are expected to:
 
 As the leading team, your job is to decide what to cover in that class session ( sure to include class reading assignment and is not limited to typical research papers), prepare slide deck, and lead an interesting, engaging, and illuminating class!
 
-You have one class session to present your topic (either Tues or Thurs meetings), so please don’t just give a series of unconnected, dull presentations. You need to think of things to do in class to make it more worthwhile and engaging. Most class sessions will include presenting ideas using slides, but you should aim to also include other things such as whiteboard presentations, code demos, class discussions, class activities, etc.
+You have one class session to present your topic (either Mon or Wed class), so please don’t just give a series of unconnected, dull presentations. You need to think of things to do in class to make it more worthwhile and engaging. Most class sessions will include presenting ideas using slides, etc.
 
 One weeks before your team is scheduled to lead, you should have an idea what you want to do, tentative list of readings or other materials, and send this to instructor by 5:29pm on the Monday. We will give you some quick feedback on this, and we will meet on the Monday or Wedesday office hours to discuss.
 
@@ -90,7 +90,7 @@ Preparation Deadlines
 All deadlines are at 5:29pm on the date listed.
 
 
-#### Blogging Team
+#### Demo Blogpost Team
 
 + Course Github site to PR your blogpost at [here](xx)
 
