@@ -33,6 +33,10 @@ desc: "Information for 2025 Spring UVa CS -GenAI-Overview"
 
 Students in the seminar are expected to:
 
++ Every team is required to cover four of the class sessions.  Each team include 6+ students, with 4 to 5 delivering slide deck and 2 to deliver a demo on the topic or building a blogpost of the topic. 
+
++ Before each week, I will share the required readings through email on that week’s papers we plan to cover. Everyone is expected to submit a weekly assignment with 1 question per paper. 
+
 + For each session, there will be a team of students charged with preparing a topic, analyzing, delivering a lecture and leading the classroom discussions. Part of the same team of students is charged with writing a blog post about that topic. 
 
 + Participate actively in class meetings. This means being prepared to contribute by doing the assigned preparation (which will typically involve reading a few research papers, but may involve other things also) and thinking about the materials deeply to be able to contribute well to discussions. Part of this preparation will involve posting questions before each class.
