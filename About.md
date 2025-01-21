@@ -20,7 +20,7 @@ desc: "Information for 2025 Spring UVa CS -GenAI-Overview"
 + MoWe 3:30pm - 4:45pm  
 + Olsson Hall 009
 
-+ Each class session starts by a presentation (lecture) by a student group, and ended with classroom discussion on the collected and new questions. After each class session, another team of students will write a blogpost on the topic. All the students are required to read every session's required readings before it is discussed in a class, and sent their questions through Collab in advance.
++ Each class session starts by a presentation (lecture) by a student group, and ended with classroom discussion on the collected questions. After each class session, part of the team of students will write a blogpost or present a demo on the topic. All the students are required to read every session's required readings before it is discussed in a class, and sent their questions through Canvas in advance.
 
 
 + It is quite hard to make important topics of Generative AI fit on a one-semester schedule.  We aim to make the course reasonably digestible in an seminar team-learning manner. Our goals here are to highlight the most timing research topics relating to GenAI. We think this teaching style provides students with research centered learning on both knowledge and workflows, helping them build a quick understanding of State-of-the-Art in GenAI.
@@ -33,31 +33,30 @@ desc: "Information for 2025 Spring UVa CS -GenAI-Overview"
 
 Students in the seminar are expected to:
 
-+ For each session, there will be a team of students charged with preparing a topic, analyzing, delivering a lecture and leading the classroom discussions. Another team of students is charged with writing a blog post about that class. 
++ For each session, there will be a team of students charged with preparing a topic, analyzing, delivering a lecture and leading the classroom discussions. Part of the same team of students is charged with writing a blog post about that topic. 
 
-+ We plan in a way that wtudents responsible for posting the blog summary will be different from the ones charged with leading the topic discussion, but should work closely with the leaders on the posted write-up.
++ Participate actively in class meetings. This means being prepared to contribute by doing the assigned preparation (which will typically involve reading a few research papers, but may involve other things also) and thinking about the materials deeply to be able to contribute well to discussions. Part of this preparation will involve posting questions before each class.
 
-+ Participate actively in class meetings. This means being prepared to contribute by doing the assigned preparation (which will typically involve reading a few research papers, but may involve other things also) and thinking about the materials deeply to be able to contribute well to discussions. Part of this preparation will involve writing and posting questions before each class.
-
-+ Each team is expected to include 4 to 5 students. 
++ Each team is expected to include 6 to 7 students. 
 
 ### Course Websites
 
-+ Course schedule and materials  @ [xxx](xx)
++ Course schedule and materials  @ [https://qiyanjun.github.io/2025sp-GenAI-overview/](https://qiyanjun.github.io/2025sp-GenAI-overview/)
 
-+ Discussion and assignment submissions via [Cavas site:]() 
++ Discussion and assignment submissions via [Cavas site:](https://canvas.its.virginia.edu) 
 
-+ Course annoucement via: [xx](xx)
++ Course annoucement via: [2025sp-genai-overview-13860901@mail.canvas.its.virginia.edu](2025sp-genai-overview-13860901@mail.canvas.its.virginia.edu)
 
 
-+  Corrections or comments to [yanjun@virginia.edu](mailto:xxx)
++  Corrections or comments to [yanjun@virginia.edu](mailto:25sp_spec_top-1386091921101@mail.canvas.its.virginia.edu)
 
 + ##### Instructors: 
-  - Prof. Yanjun Qi / [yanjun@virginia.edu](mailto:yanjun@virginia.edu);
-  - TA: [xx](mailto:) 
+  - Prof. Yanjun Qi / [yanjun@virginia.edu](mailto:25sp_spec_top-1386091921101@mail.canvas.its.virginia.edu);
+  - TA: [Guangzhi Xiong](mailto:25sp_spec_top-1386091921101@mail.canvas.its.virginia.edu) 
   - Instructor office hour: Tue: 7:30pm via Zoom 
-  - TA office hours: TBD: 7:30pm via Zoom
-  - Demo/Blogging guide hour: Thur 7:30pm via Zoom
+  - TA office hours: 11am-noon Mon / Wed 
+  - Presentation guiding hours: Sun 7:30pm via Zoom / Tue 7:30pm via Zoom
+  - Demo/Blogging weekly check hour: Friday 11am via Zoom 
 
 
 ### Course Grading Policy
@@ -71,43 +70,27 @@ Students in the seminar are expected to:
   - 25% for the quality of your project; (project difference: Graduate vs. Under)  
   - 15% for submitting questions before each session 
 
-Final grades will be based on.
-20% for the quality of your submitted questions before class and discussions in class;
-20% for class attendance
-40% for the quality of your seminar presentations;
-20% for the quality of your blogposts ;
 
+#### Presentation Lead Team Expectation
 
-#### Leading Team Expectation
-
-As the leading team, your job is to decide what to cover in that class session ( sure to include class reading assignment and is not limited to typical research papers), prepare slide deck, and lead an interesting, engaging, and illuminating class!
+As the leading team, your job is to decide what to cover in that class session, prepare slide deck, and lead an interesting, engaging, and illuminating class!
 
 You have one class session to present your topic (either Mon or Wed class), so please don’t just give a series of unconnected, dull presentations. You need to think of things to do in class to make it more worthwhile and engaging. Most class sessions will include presenting ideas using slides, etc.
 
-One weeks before your team is scheduled to lead, you should have an idea what you want to do, tentative list of readings or other materials, and send this to instructor by 5:29pm on the Monday. We will give you some quick feedback on this, and we will meet on the Monday or Wedesday office hours to discuss.
+One weeks before your team is scheduled to lead, you should have an idea what you want to do, tentative list of readings or other materials. We will give you some quick feedback on what you plan to cover, and we will meet on the Sunday or Tues office hours to discuss and go over your slide deck.
 
-The day before your team is scheduled to lead, you should post the materials for the class to instructors, including slide deck,  activities, on the course discussion site. So, the team leading on 02/12 September should do this by 0211 at 5:29pm.
+The day before your team is scheduled to lead, you should post the materials for the class to instructors, including slide deck,  activities, on the course discussion site. So, the team leading on 02/12  should do this by 0211 at 7:29pm.
 
 After you’ve completed the class meeting, you should help the Blogging team by providing them with your materials, answering their questions, and reviewing their write-up.
 
-Preparation Deadlines
 
-All deadlines are at 5:29pm on the date listed.
+#### Demo / Blogpost Team
 
++ Course Github site to PR your blogpost or demo notebook at [here](https://github.com/qiyanjun/2025sp-GenAI-overview)
 
-#### Demo Blogpost Team
+The blogging team is responsible for writing a post that summarizes the materials and discussion for the class. A draft of the blog should be submitted as a pull request no later than the following week's Thursday  (instrutors will go over your blogs in the Thursdays' 7:30pm hour office session). Instructions for how to prepare the blog post are on the [Blogging Tactics](https://qiyanjun.github.io/2025sp-GenAI-overview//BloggingTactics/) page.
 
-+ Course Github site to PR your blogpost at [here](xx)
-
-The blogging team is responsible for writing a post that summarizes the materials and discussion for the class. A draft of the blog should be submitted as a pull request no later than the following week's Thursday  (instrutors will go over your blogs in the Thursdays' 7:30pm hour office session).
-
-Before the scheduled class, develop a team plan for how to manage the blogging. One team member should be designated the team leader for the blogging. The blogging leader is responsible for making sure the team is well coordinated and everyone knows what they are doing and follows through on this. The blogging team should take detailed notes (this can be distributed among the team — make sure you know who is responsible for taking notes on each part).
-
-Note that as the blogging team, you are expected get the questions from the TA, answer questions in the blog to select important questions. You are not expected to lead the class, but you are expected to participate actively in the class.
-
-By the Monday following class, have a draft of the blog post ready, and share it with the rest of the class (including the leading team,  instructors and coordinators) for comments. Instructions for how to prepare the blog post are on the [Blogging Tactics](xx/BloggingTactics/) page.
-
-By the following Friday, have a final version of the blog post ready and get posted into the course site.
+By the following Friday, we need a final version of the blog post ready and get posted into the course site.
 
 
 ### Academic Integrity
