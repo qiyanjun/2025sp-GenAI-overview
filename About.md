@@ -33,7 +33,15 @@ desc: "Information for 2025 Spring UVa CS -GenAI-Overview"
 
 Students in the seminar are expected to:
 
-+ Every team is required to cover four of the class sessions.  Each team include 6+ students, with 4 to 5 delivering slide deck and 2 to deliver a demo on the topic or building a blogpost of the topic. 
++ Every team is required to cover four of the class sessions.  Each team include 5+ students. 
+
++ For each topic, presentation and blogpost/demo are two independent assignments: 
+  - Everyone in a team needs to work on slide presentation of their assigned topics!
+  - Everyone in a team needs to work on blogpost/demo of their assignment topics!
+  - These are two different assignments
+  - Example of Slide deck: https://qiyanjun.github.io/2024sp-GenAI-Risk-Benefits//Lectures/W3-LLMEvaluation-Team5.pdf
+  - Example of blogpost: https://qiyanjun.github.io/2024sp-GenAI-Risk-Benefits//contents/S0-L03/
+
 
 + Before each week, I will share the required readings through email on that week’s papers we plan to cover. Everyone is expected to submit a weekly assignment with 1 question per paper. 
 
