@@ -55,10 +55,11 @@ Students in the seminar are expected to:
 
 + Course schedule and materials  @ [https://qiyanjun.github.io/2025sp-GenAI-overview/](https://qiyanjun.github.io/2025sp-GenAI-overview/)
 
-+ Discussion and assignment submissions via [Cavas site:](https://canvas.its.virginia.edu) 
++  Assignment submissions via [Cavas site:](https://canvas.its.virginia.edu) 
 
 + Course annoucement via: [2025sp-genai-overview-13860901@mail.canvas.its.virginia.edu](2025sp-genai-overview-13860901@mail.canvas.its.virginia.edu)
 
++ Course Discussion via Course Slack Space (please ask TA to add you in!) 
 
 +  Corrections or comments to [yanjun@virginia.edu](mailto:25sp_spec_top-1386091921101@mail.canvas.its.virginia.edu)
 

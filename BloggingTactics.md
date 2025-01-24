@@ -4,7 +4,7 @@ Here are some suggestions for how to create the class blog posts for your assign
 
 ## Fork the github repository for the course website. 
 
-+ This is what is used to build the [https://qiyanjun.github.io/2025sp-GenAI-xx](xx) site. If you are working with multiple teammates on the blog post (which you probably should be), you can add write permissions for everyone to the forked repository.
++ This is what is used to build the [https://github.com/qiyanjun/2025sp-GenAI-overview](https://github.com/qiyanjun/2025sp-GenAI-overview) site. If you are working with multiple teammates on the blog post (which you probably should be), you can add write permissions for everyone to the forked repository.
 
 + You should find your page in the _contents/ subdirectory. 
 + I have a simple version of each session's *.md 
