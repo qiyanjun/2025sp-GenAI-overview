@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Introduction
-lecture: S0-review
+lecture: 25SP-W1.1-deepNNtext
 lectureVersion: current
 extraContent: 
 notes: instructor
-video: on deep nlp basics
+video: deep nlp basics
 tags:
 - BasicLLM
 desc: 2025-S0
