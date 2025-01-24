@@ -39,6 +39,9 @@ Students in the seminar are expected to:
   - Everyone in a team needs to work on slide presentation of their assigned topics!
   - Everyone in a team needs to work on blogpost/demo of their assignment topics!
   - These are two different assignments
+  - Presentation is due on the present date~ 
+  - Blogpost is due two weeks after the present date~
+
   - Example of Slide deck: https://qiyanjun.github.io/2024sp-GenAI-Risk-Benefits//Lectures/W3-LLMEvaluation-Team5.pdf
   - Example of blogpost: https://qiyanjun.github.io/2024sp-GenAI-Risk-Benefits//contents/S0-L03/
 
