@@ -33,7 +33,7 @@ desc: "Information for 2025 Spring UVa CS -GenAI-Overview"
 
 Students in the seminar are expected to:
 
-+ Every team is required to cover four of the class sessions.  Each team include 5+ students. 
++ Every team is required to cover four of the class sessions.  Each team include 4+ students. 
 
 + For each topic, a slide deck and an in-class presentation is expected from a team: 
   - Everyone in a team needs to work on slide presentation of their assigned topics!
