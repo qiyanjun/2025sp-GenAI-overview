@@ -46,9 +46,12 @@ Students in the seminar are expected to:
 
 + For each session, there will be a team of students charged with preparing a topic, analyzing, delivering a lecture and leading the classroom discussions. 
 
++ Each team is expected to include 4+ students. Every teammber is expected to contribute with 12-15 slide pages covering concrete and educational contents about the papers we survey for the topic assigned to the team. Every student is expected to cover about 50% of a survey paper on the assigned topics. 
+
++ We recommend students to use 365 powerpoint [here](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=713ff34fdb3ac744f032f1f51d961937#login) to support their co-editing of presentation slide decks. 
+
 + Participate actively in class meetings. This means being prepared to contribute by  reading the assigned papers, and thinking about the materials deeply to be able to contribute well to discussions. Part of this preparation will involve posting your questions before each class.
 
-+ Each team is expected to include 5 students. Every teammber is expected to contribute with 12-15 slide pages covering concrete and educational contents about the papers we survey for the topic assigned to the team
 
 ### Course Websites
 
