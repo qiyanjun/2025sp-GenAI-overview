@@ -61,7 +61,7 @@ desc: "2025 Spring  UVa CS Generative AI Seminar Lectures Organized by Given Ord
   {% endif %}
 
   {% if post.notes %}
-  <li>Blog: {{ post.notes }} </li>
+  <li>Team: {{ post.notes }} </li>
   {% endif %}
 
   {% if post.morenotes %}
@@ -69,7 +69,7 @@ desc: "2025 Spring  UVa CS Generative AI Seminar Lectures Organized by Given Ord
   {% endif %}
 
   {% if post.video %}
-  <li>Lead: {{ post.video }} </li>
+  <li>Information: {{ post.video }} </li>
   {% endif %}
 
 </ul>
