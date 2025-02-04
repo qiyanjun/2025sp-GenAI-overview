@@ -83,8 +83,8 @@ Students in the seminar are expected to:
   - 60% for the quality of your four seminar presentations; 
   - 15% for submitting questions before each session 
   - for the rest of 25%
-    + option-1:  10% for the course attendance + 15% for the quality of your project (4-page double column final project report is needed; if longer and with good quality, extra credits will be given)!  
-    + option-2: 25% purely based on your project (You are expected to submit a 8-page double column final project report.) 
+     + option-1: 25% purely based on your project (You are expected to submit a 8-page double column final project report.) 
+     + option-2:  10% for the course attendance + 15% for the quality of your project (4-page double column final project report is needed; if longer and with good quality, extra credits will be given)!  
 
 
 
