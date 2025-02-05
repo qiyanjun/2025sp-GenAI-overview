@@ -4,8 +4,8 @@ title: Introduction
 lecture: 25SP-W1.1-deepNNtext
 lectureVersion: current
 extraContent: 
-notes: instructor
-video: deep nlp basics
+video: instructor
+notes: deep nlp basics
 tags:
 - BasicLLM
 desc: 2025-S0
