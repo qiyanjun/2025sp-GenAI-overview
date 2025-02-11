@@ -38,8 +38,8 @@ Students in the seminar are expected to:
 + For each topic, a slide deck and an in-class presentation is expected from a team: 
   - Everyone in a team needs to work on slide presentation of their assigned topics!
   - Presentation is due on the present date~ 
-  - Example of Slide deck: https://qiyanjun.github.io/2024sp-GenAI-Risk-Benefits//Lectures/W3-LLMEvaluation-Team5.pdf
-  - Example of blogpost: https://qiyanjun.github.io/2024sp-GenAI-Risk-Benefits//contents/S0-L03/
+  - Example of Slide deck: [here](https://qiyanjun.github.io/2024sp-GenAI-Risk-Benefits//Lectures/W3-LLMEvaluation-Team5.pdf)
+
 
 
 + Before each week, I will share the required readings through email on that week’s papers we plan to cover. Everyone is expected to submit a weekly assignment with 1 question per paper. 
