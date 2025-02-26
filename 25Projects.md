@@ -7,7 +7,7 @@ desc: "Course Project Information for 2025 Spring UVa CS -GenAI-Overview"
 
 ### Two options for the final project: 
   + option-1: 25% purely based on your project (You are expected to submit a 8-page double column final project report.) 
-  + option-2:  10% for the course attendance + 15% for the quality of your project (4-page double column final project report is needed; if longer and with good quality, extra credits will be given)!  
+  + option-2:  10% for the course attendance + 15% for the quality of your project (4-page double column final project report is needed; if longer and with good quality, extra credits will be given)!  If you are doing really well in your report and presentation, I will give 10 point extra credit (like delivering 8page high quality report + great notebook codebase / slide deck!)
 
 
 
