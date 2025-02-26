@@ -61,7 +61,7 @@ Students in the seminar are expected to:
 
 + Course annoucement via: [2025sp-genai-overview-13860901@mail.canvas.its.virginia.edu](2025sp-genai-overview-13860901@mail.canvas.its.virginia.edu)
 
-+ Course Discussion via Course Slack Space (please ask TA to add you in!) 
++ Course Discussion via Course Slack Space (please ask TA to get you in!) 
 
 +  Corrections or comments to [yanjun@virginia.edu](mailto:25sp_spec_top-1386091921101@mail.canvas.its.virginia.edu)
 
@@ -71,7 +71,6 @@ Students in the seminar are expected to:
   - Instructor office hour: Tue: 7:30pm via Zoom 
   - TA office hours: 11am-noon Mon / Wed 
   - Presentation guiding hours: Sun 7:30pm via Zoom / Tue 7:30pm via Zoom
-  - Demo/Blogging weekly check hour: Friday 11am via Zoom 
 
 
 ### Course Grading Policy
@@ -85,7 +84,7 @@ Students in the seminar are expected to:
   - for the rest of 25%
      + option-1: 25% purely based on your project (You are expected to submit a 8-page double column final project report.) 
      + option-2:  10% for the course attendance + 15% for the quality of your project (4-page double column final project report is needed; if longer and with good quality, extra credits will be given)!  
-
+     + More details on final project, please check out the Project Page via sidebar! 
 
 
 ### Academic Integrity
