@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction
-lecture: 25SP-W1.1-deepNNtext
+lecture: W1.1-deepNNtext
 lectureVersion: current
 extraContent: 
 video: instructor
