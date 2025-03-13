@@ -21,6 +21,7 @@ desc: "Course Project Information for 2025 Spring UVa CS -GenAI-Overview"
 
 + On the project final presentation (50%): 
   - A formal presentation to the instructors (in the last week of semester), presenting your slide deck and your iPython notebook. 
+  - A mini presentation to the instructor (on April 7th) on your project idea is expected during one class session. Two slide pages are enough (more is better!). The mini presentation is expected to explain  (WHY/ WHAT/ HOW of your project idea!)
   - You slide (Due in Canvas on May 7th) summarizes your project via a powerpoint presentation, describing the results you reproduce 
   - Please formulate your project presentation using [this template]({{ site.baseurl }}/Lectures/Project-PresentationTemplate.pptx)
   - A python Jupyter notebook (Due in Canvas on May 7th) to present the code, data visualization, and obtain the results and analysis through step by step code cell run. 
