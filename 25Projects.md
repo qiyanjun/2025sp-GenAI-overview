@@ -48,12 +48,12 @@ desc: "Course Project Information for 2025 Spring UVa CS -GenAI-Overview"
 ### Looking forward to your talks, demos and reports! 
 
 ### Potential projects or project types: for example, 
-- Build a dataset to evaluate a certain capability of LLMs / VLMs / agents
-- Reproduce a GenAI paper 
-- Build a GenAI application, like AI-Assisted Blogpost Creation  
-- Build a GenAI guardrail, like GenAI generation detetion 
-- Build a GenAI application, like misinforamtion / hallucination detection 
+- Build a novel dataset to evaluate a certain capability of LLMs / VLMs / agents
+- Build a GenAI application, like Prompt to Blogpost Creation  
 - Build a GenAI application, GenAI-Powered audio editing
+- Build a GenAI guardrail, like GenAI generative content detetion 
+- Build a GenAI guardrail, like misinforamtion / hallucination detection 
+- Reproduce a GenAI paper 
 - Many many more! 
 
 
