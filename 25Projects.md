@@ -49,6 +49,14 @@ desc: "Course Project Information for 2025 Spring UVa CS -GenAI-Overview"
 
 ### Potential projects or project types: for example, 
 - Build a novel dataset to evaluate a certain capability of LLMs / VLMs / agents
+  + e.g., personality of LLMs 
+  + e.g., characters of LLMs 
+  + e.g., safety of LLMs
+  + e.g., code security 
+  + e.g., for a specific domain, like Health commonsense? 
+  + e.g., for a specific domain, like robotic spatial awareness?
+  + e.g., CS theory exams?
+  + e.g., following certain sofeware specifications?  
 - Build a GenAI application, like Prompt to Blogpost Creation  
 - Build a GenAI application, GenAI-Powered audio editing
 - Build a GenAI guardrail, like GenAI generative content detetion 
