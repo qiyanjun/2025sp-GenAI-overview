@@ -66,7 +66,7 @@ Students in the seminar are expected to:
 +  Corrections or comments to [yanjun@virginia.edu](mailto:25sp_spec_top-1386091921101@mail.canvas.its.virginia.edu)
 
 + ##### Instructors: 
-  - Prof. Yanjun Qi / [yanjun@virginia.edu](mailto:25sp_spec_top-1386091921101@mail.canvas.its.virginia.edu);
+  - Prof. [Yanjun Qi](https://qiyanjun.github.io/Homepage/) / [yanjun@virginia.edu](mailto:25sp_spec_top-1386091921101@mail.canvas.its.virginia.edu);
   - TA: [Guangzhi Xiong](mailto:25sp_spec_top-1386091921101@mail.canvas.its.virginia.edu) 
   - Instructor office hour: Tue: 7:30pm via Zoom 
   - TA office hours: 11am-noon Mon / Wed 
