@@ -30,11 +30,11 @@ desc: "Course Project Information for 2025 Spring UVa CS -GenAI-Overview"
 
 
 + On the final presentation of your project: 
-  - To minimize the overhead time cost (switching, wrong setup, ….), we will use one instructor’s laptop to
-  - 1. Download your team slides (from Canvas) and let you present
-  - 2. Download your team iPython Notebook (from Canvas) and let you cell run
-  - Please practice the whole process using your own laptop ( I mean checking the files you will submit into Canvas) for more than 3 times.
-  - And please make sure the whole process run as smooth as you can. We will use a timer and will cut you off when reaching 15mins.
+  - To minimize the overhead time cost (switching, wrong setup, ….), we will use zoom for
+  - 1. your team slides and let you present
+  - 2. your team iPython Notebook and let you cell run
+  - Please practice the whole process using your own laptop ( I mean checking the files you will submit into Canvas) for a few times.
+  - And please make sure the whole process run as smooth as you can. We will use a timer and will cut you off when reaching 30 mins.
 
 
 + On the project final report (50%): 
